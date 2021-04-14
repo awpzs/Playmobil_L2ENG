@@ -157,19 +157,14 @@ newTrial("recording_information" ,
 )
 
 newTrial("instruction",
-        newText("<p>Welcome to our experiment! In this experiment, you will see scenes of toy characters performing actions.</p><p>We are interested in how you describe them, so listeners, who don't see this change, will be able to understand what is happening in the scene.</p>")  
-            .print()
-        ,
-        newText("<p>First, you will see a picture, and a sentence describing the scene. Please imagine that you have a listener, who can also see this picture. Please read the sentence aloud, and then click on the sentence. The sentence will disappear.</p><p>Then you will see another picture, in which one of the toy characters had performed an action. You will need to produce a new sentence describing the action of the character.</p><p>Please produce the new sentence in a way that, by listening to your sentence, the imaginary listener, who cannot see the second picture, can recreate the scene by moving the toys physically.</p>")
-            .print()
-        ,
-        newText("<p>After describing the action, you will need to click on the <strong>Proceed</strong> button to proceed. Now let us see some examples.</p>")
+        newHtml("inst_text", "instruction.html")
             .print()
         ,
         newButton("Continue")
             .settings.center()
             .print()
-            .wait()
+            .wait(getHtml("inst_text").test.complete()
+                .failure(getHtml("inst_text").warn()))
 )
 
 Template(
@@ -203,14 +198,13 @@ Template(
             getText("sentence")
                 .remove()
             ,
-            newText('Please describe the action by saying it aloud, starting with "Now". For example, you could say:'')
+            newText('Please describe the action by saying it aloud, starting with "Now". For example, you could say:')
                 .settings.center()
                 .print()
             ,
             newText(variable.target1).bold().color("blue")
                 .settings.after(newText("&nbsp;OR&nbsp;"))
                 .settings.after(newText(variable.target2).bold().color("blue"))
-                .settings.after(newText("&nbsp;OR&nbsp;"))
                 .settings.center()
                 .print()
             ,
@@ -265,7 +259,7 @@ newTrial("exp_start",
 Template(
     GetTable("fulldesign.csv")
         .setGroupColumn("List")
-        .filter(variable => variable.order < 33)
+        .filter(variable => variable.Order < 33)
         , variable =>
         newTrial( "block_1" ,
             newMediaRecorder(variable.recordingName+'_'+GetURLParameter("id"), "audio")
@@ -330,7 +324,7 @@ newTrial( "rest" ,
 Template(
     GetTable("fulldesign.csv")
         .setGroupColumn("List")
-        .filter(variable => variable.order > 32)
+        .filter(variable => variable.Order > 32)
         , variable =>
         newTrial( "block_2" ,
             newMediaRecorder(variable.recordingName+'_'+GetURLParameter("id"), "audio")
