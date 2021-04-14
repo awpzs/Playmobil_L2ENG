@@ -1,0 +1,229 @@
+List,Order,Item,Condition,Amb,Vis,Half,expTrials,FirstDisplay,SecondDisplay,sentence,Chinese,Italian,recordingName
+1,4,p3,,,,,N,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.,N_List1_Order4_Item_p3_Cond
+2,4,p3,,,,,N,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.,N_List2_Order4_Item_p3_Cond
+3,4,p3,,,,,N,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.,N_List3_Order4_Item_p3_Cond
+4,4,p3,,,,,N,p0401.jpg,p0402.jpg,The knight saw a bale of straw and a chicken  on his way to work.,骑士在去工作的路上，看见了一垛干草和一只鸡。,Il cavaliere ha visto una balla di fieno e un pollo mentre andava al lavoro.,N_List4_Order4_Item_p3_Cond
+1,5,p2,,,,,N,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.,N_List1_Order5_Item_p2_Cond
+2,5,p2,,,,,N,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.,N_List2_Order5_Item_p2_Cond
+3,5,p2,,,,,N,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.,N_List3_Order5_Item_p2_Cond
+4,5,p2,,,,,N,p0301.jpg,p0302.jpg,A young girl liked the teddy very much when she was  shopping with her mother.,小女孩和妈妈去买东西的时候，一眼看上了这个泰迪熊。,L'orsacchiotto e' piaciuto molto alla bambina quando faceva la spesa con la sua mamma.,N_List4_Order5_Item_p2_Cond
+1,6,x01,,,,1,N,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely.",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo.",N_List1_Order6_Item_x01_Cond
+2,6,x01,,,,1,N,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely.",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo.",N_List2_Order6_Item_x01_Cond
+3,6,x01,,,,1,N,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely.",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo.",N_List3_Order6_Item_x01_Cond
+4,6,x01,,,,1,N,x0301.jpg,x0302.jpg,"When he was alone, the ghost felt lonely.",鬼魂独自呆着的时候，会感到孤独。,"Quando era solo, il fantasma si sentiva solo.",N_List4_Order6_Item_x01_Cond
+1,7,x02,,,,1,N,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.,N_List1_Order7_Item_x02_Cond
+2,7,x02,,,,1,N,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.,N_List2_Order7_Item_x02_Cond
+3,7,x02,,,,1,N,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.,N_List3_Order7_Item_x02_Cond
+4,7,x02,,,,1,N,x0201.jpg,x0202.jpg,The Egyptian had lost her way when she met  a man with a compass.,埃及人迷路的时候，遇到了一个带着指南针的男人。,L'egiziana aveva smarrito la strada quando ha incontrato un uomo con la bussola.,N_List4_Order7_Item_x02_Cond
+1,8,1,4,2,2,1,Y,4011.jpg,4012.jpg,The witch visited the garden with the boy.,女巫和男孩去参观了花园。,La strega ha visitato il giardino con il bambino.,Y_List1_Order8_Item_1_Cond4
+2,8,1,1,1,1,1,Y,1011.jpg,1012.jpg,The witch visited the garden with the girl.,女巫和女孩去参观了花园。,La strega ha visitato il giardino con la bambina.,Y_List2_Order8_Item_1_Cond1
+3,8,1,2,1,2,1,Y,2011.jpg,2012.jpg,The witch visited the garden with the girl.,女巫和女孩去参观了花园。,La strega ha visitato il giardino con la bambina.,Y_List3_Order8_Item_1_Cond2
+4,8,1,3,2,1,1,Y,3011.jpg,3012.jpg,The witch visited the garden with the boy.,女巫和男孩去参观了花园。,La strega ha visitato il giardino con il bambino.,Y_List4_Order8_Item_1_Cond3
+1,9,x03,,,,1,N,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.,N_List1_Order9_Item_x03_Cond
+2,9,x03,,,,1,N,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.,N_List2_Order9_Item_x03_Cond
+3,9,x03,,,,1,N,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.,N_List3_Order9_Item_x03_Cond
+4,9,x03,,,,1,N,x3101.jpg,x3102.jpg,The neighbour's cats were vegetarians.,领居家的猫吃素。,I gatti del vicino erano vegetariani.,N_List4_Order9_Item_x03_Cond
+1,10,2,1,1,1,1,Y,1021.jpg,1022.jpg,The Indian went to the forest with the admiral.,印第安人和将军去了森林。,L'indiano e' andato nella foresta con l'ammiraglio.,Y_List1_Order10_Item_2_Cond1
+2,10,2,2,1,2,1,Y,2021.jpg,2022.jpg,The Indian went to the forest with the admiral.,印第安人和将军去了森林。,L'indiano e' andato nella foresta con l'ammiraglio.,Y_List2_Order10_Item_2_Cond2
+3,10,2,3,2,1,1,Y,3021.jpg,3022.jpg,The Indian went to the forest with the countess.,印第安人和女爵士去了森林。,L'indiano e' andato nella foresta con la contessa.,Y_List3_Order10_Item_2_Cond3
+4,10,2,4,2,2,1,Y,4021.jpg,4022.jpg,The Indian went to the forest with the countess.,印第安人和女爵士去了森林。,L'indiano e' andato nella foresta con la contessa.,Y_List4_Order10_Item_2_Cond4
+1,11,x04,,,,1,N,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.,N_List1_Order11_Item_x04_Cond
+2,11,x04,,,,1,N,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.,N_List2_Order11_Item_x04_Cond
+3,11,x04,,,,1,N,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.,N_List3_Order11_Item_x04_Cond
+4,11,x04,,,,1,N,x0701.jpg,x0702.jpg,Grandmother saw her rabbits were outside.,奶奶看见她的兔子正在外面。,La nonna ha visto che i conigli erano usciti.,N_List4_Order11_Item_x04_Cond
+1,12,3,2,1,2,1,Y,2031.jpg,2032.jpg,The countess came out of the house with the nun.,女爵士和修女从房子里出来。,La contessa e' uscita da casa con la suora.,Y_List1_Order12_Item_3_Cond2
+2,12,3,3,2,1,1,Y,3031.jpg,3032.jpg,The countess came out of the house with the priest.,女爵士和牧师从房子里出来。,La contessa e' uscita da casa con il prete.,Y_List2_Order12_Item_3_Cond3
+3,12,3,4,2,2,1,Y,4031.jpg,4032.jpg,The countess came out of the house with the priest.,女爵士和牧师从房子里出来。,La contessa e' uscita da casa con il prete.,Y_List3_Order12_Item_3_Cond4
+4,12,3,1,1,1,1,Y,1031.jpg,1032.jpg,The countess came out of the house with the nun.,女爵士和修女从房子里出来。,La contessa e' uscita da casa con la suora.,Y_List4_Order12_Item_3_Cond1
+1,13,x05,,,,1,N,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa.,N_List1_Order13_Item_x05_Cond
+2,13,x05,,,,1,N,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa.,N_List2_Order13_Item_x05_Cond
+3,13,x05,,,,1,N,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa.,N_List3_Order13_Item_x05_Cond
+4,13,x05,,,,1,N,x0501.jpg,x0502.jpg,The knight asked the race car driver for his helmet.,骑士找赛车手要他的头盔。,Il cavaliere ha chiesto l'elmetto al pilota di auto da corsa.,N_List4_Order13_Item_x05_Cond
+1,14,4,3,2,1,1,Y,3041.jpg,3042.jpg,The king visited the castle with the stewardess.,国王和乘务员去参观了城堡。,Il re ha visitato il castello con la hostess.,Y_List1_Order14_Item_4_Cond3
+2,14,4,4,2,2,1,Y,4041.jpg,4042.jpg,The king visited the castle with the stewardess.,国王和乘务员去参观了城堡。,Il re ha visitato il castello con la hostess.,Y_List2_Order14_Item_4_Cond4
+3,14,4,1,1,1,1,Y,1041.jpg,1042.jpg,The king visited the castle with the pilot.,国王和飞行员去参观了城堡。,Il re ha visitato il castello con il pilota.,Y_List3_Order14_Item_4_Cond1
+4,14,4,2,1,2,1,Y,2041.jpg,2042.jpg,The king visited the castle with the pilot.,国王和飞行员去参观了城堡。,Il re ha visitato il castello con il pilota.,Y_List4_Order14_Item_4_Cond2
+1,15,x06,,,,1,N,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.,N_List1_Order15_Item_x06_Cond
+2,15,x06,,,,1,N,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.,N_List2_Order15_Item_x06_Cond
+3,15,x06,,,,1,N,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.,N_List3_Order15_Item_x06_Cond
+4,15,x06,,,,1,N,x2101.jpg,x2102.jpg,The fire-fighter was in a hurry when he saw the  red traffic light.,消防员正在赶时间，却撞上了红灯。,Il pompiere aveva fretta quando ha visto il semaforo rosso.,N_List4_Order15_Item_x06_Cond
+1,16,5,1,1,1,1,Y,1051.jpg,1052.jpg,The captain was invited to the palace with  the policeman.,船长和男警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con il poliziotto.,Y_List1_Order16_Item_5_Cond1
+2,16,5,2,1,2,1,Y,2051.jpg,2052.jpg,The captain was invited to the palace with  the policeman.,船长和男警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con il poliziotto.,Y_List2_Order16_Item_5_Cond2
+3,16,5,3,2,1,1,Y,3051.jpg,3052.jpg,The captain was invited to the palace with  the policewoman.,船长和女警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con la poliziotta.,Y_List3_Order16_Item_5_Cond3
+4,16,5,4,2,2,1,Y,4051.jpg,4052.jpg,The captain was invited to the palace with  the policewoman.,船长和女警察被邀请去宫殿。,Il capitano e' stato invitato a palazzo con la poliziotta.,Y_List4_Order16_Item_5_Cond4
+1,17,x07,,,,1,N,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.,N_List1_Order17_Item_x07_Cond
+2,17,x07,,,,1,N,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.,N_List2_Order17_Item_x07_Cond
+3,17,x07,,,,1,N,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.,N_List3_Order17_Item_x07_Cond
+4,17,x07,,,,1,N,x0601.jpg,x0602.jpg,The waitress heard someone behind her.,服务员听见背后有人。,La cameriera ha sentito che c'era qualcuno dietro di lei.,N_List4_Order17_Item_x07_Cond
+1,18,6,3,2,1,1,Y,3061.jpg,3062.jpg,The gardener went to the river with the bride.,园丁和新娘去游河。,Il giardiniere e' andato al fiume con la sposa.,Y_List1_Order18_Item_6_Cond3
+2,18,6,4,2,2,1,Y,4061.jpg,4062.jpg,The gardener went to the river with the bride.,园丁和新娘去游河。,Il giardiniere e' andato al fiume con la sposa.,Y_List2_Order18_Item_6_Cond4
+3,18,6,1,1,1,1,Y,1061.jpg,1062.jpg,The gardener went to the river with the groom.,园丁和新郎去游河。,Il giardiniere e' andato al fiume con lo sposo.,Y_List3_Order18_Item_6_Cond1
+4,18,6,2,1,2,1,Y,2061.jpg,2062.jpg,The gardener went to the river with the groom.,园丁和新郎去游河。,Il giardiniere e' andato al fiume con lo sposo.,Y_List4_Order18_Item_6_Cond2
+1,19,x08,,,,1,N,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.,N_List1_Order19_Item_x08_Cond
+2,19,x08,,,,1,N,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.,N_List2_Order19_Item_x08_Cond
+3,19,x08,,,,1,N,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.,N_List3_Order19_Item_x08_Cond
+4,19,x08,,,,1,N,x0801.jpg,x0802.jpg,The cleaner saw the carpet was relatively clean.,清洁工发现地毯还算干净。,L'addetta alle pulizie ha notato che il tappeto era relativamente pulito.,N_List4_Order19_Item_x08_Cond
+1,20,x09,,,,1,N,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals.,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.,N_List1_Order20_Item_x09_Cond
+2,20,x09,,,,1,N,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals.,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.,N_List2_Order20_Item_x09_Cond
+3,20,x09,,,,1,N,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals.,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.,N_List3_Order20_Item_x09_Cond
+4,20,x09,,,,1,N,x1501.jpg,x1502.jpg,The new zookeeper was introduced to the seals.,新来的动物管理员被介绍给了海豹们。,Il nuovo lavoratore dello zoo e' stato presentato alle foche.,N_List4_Order20_Item_x09_Cond
+1,21,7,2,1,2,1,Y,2071.jpg,2072.jpg,The woman explored the cave with the queen.,女人和王后去探索了洞穴。,La donna ha esplorato la caverna con la regina.,Y_List1_Order21_Item_7_Cond2
+2,21,7,3,2,1,1,Y,3071.jpg,3072.jpg,The woman explored the cave with the king.,女人和国王去探索了洞穴。,La donna ha esplorato la caverna con il re.,Y_List2_Order21_Item_7_Cond3
+3,21,7,4,2,2,1,Y,4071.jpg,4072.jpg,The woman explored the cave with the king.,女人和国王去探索了洞穴。,La donna ha esplorato la caverna con il re.,Y_List3_Order21_Item_7_Cond4
+4,21,7,1,1,1,1,Y,1071.jpg,1072.jpg,The woman explored the cave with the queen.,女人和王后去探索了洞穴。,La donna ha esplorato la caverna con la regina.,Y_List4_Order21_Item_7_Cond1
+1,22,x10,,,,1,N,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.,N_List1_Order22_Item_x10_Cond
+2,22,x10,,,,1,N,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.,N_List2_Order22_Item_x10_Cond
+3,22,x10,,,,1,N,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.,N_List3_Order22_Item_x10_Cond
+4,22,x10,,,,1,N,x1901.jpg,x1902.jpg,The astronaut was visiting his colleague's home.,宇航员去拜访了同事家。,L'astronauta stava visitando il suo collega a casa sua.,N_List4_Order22_Item_x10_Cond
+1,23,8,4,2,2,1,Y,4081.jpg,4082.jpg,The gladiator had a chat with the lady.,角斗士和女士聊了会天。,Il gladiatore ha chiaccherato con la signora.,Y_List1_Order23_Item_8_Cond4
+2,23,8,1,1,1,1,Y,1081.jpg,1082.jpg,The gladiator had a chat with the gentleman.,角斗士和绅士聊了会天。,Il gladiatore ha chiaccherato con il signore.,Y_List2_Order23_Item_8_Cond1
+3,23,8,2,1,2,1,Y,2081.jpg,2082.jpg,The gladiator had a chat with the gentleman.,角斗士和绅士聊了会天。,Il gladiatore ha chiaccherato con il signore.,Y_List3_Order23_Item_8_Cond2
+4,23,8,3,2,1,1,Y,3081.jpg,3082.jpg,The gladiator had a chat with the lady.,角斗士和女士聊了会天。,Il gladiatore ha chiaccherato con la signora.,Y_List4_Order23_Item_8_Cond3
+1,24,x11,,,,1,N,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua.,N_List1_Order24_Item_x11_Cond
+2,24,x11,,,,1,N,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua.,N_List2_Order24_Item_x11_Cond
+3,24,x11,,,,1,N,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua.,N_List3_Order24_Item_x11_Cond
+4,24,x11,,,,1,N,x2601.jpg,x2602.jpg,The footballer found the ball on his way home.,足球运动员在回家的路上发现了自己的球。,Il calciatore ha trovato la palla mentre tornava a casa sua.,N_List4_Order24_Item_x11_Cond
+1,25,9,3,2,1,1,Y,3091.jpg,3092.jpg,The queen enjoyed a discussion with the cowboy.,王后和牛仔进行了愉快的谈话。,La regina ha conversato con il cowboy.,Y_List1_Order25_Item_9_Cond3
+2,25,9,4,2,2,1,Y,4091.jpg,4092.jpg,The queen enjoyed a discussion with the cowboy.,王后和牛仔进行了愉快的谈话。,La regina ha conversato con il cowboy.,Y_List2_Order25_Item_9_Cond4
+3,25,9,1,1,1,1,Y,1091.jpg,1092.jpg,The queen enjoyed a discussion with the nanny.,王后和保姆进行了愉快的谈话。,La regina ha conversato con la bambinaia.,Y_List3_Order25_Item_9_Cond1
+4,25,9,2,1,2,1,Y,2091.jpg,2092.jpg,The queen enjoyed a discussion with the nanny.,王后和保姆进行了愉快的谈话。,La regina ha conversato con la bambinaia.,Y_List4_Order25_Item_9_Cond2
+1,26,x12,,,,1,N,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.,N_List1_Order26_Item_x12_Cond
+2,26,x12,,,,1,N,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.,N_List2_Order26_Item_x12_Cond
+3,26,x12,,,,1,N,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.,N_List3_Order26_Item_x12_Cond
+4,26,x12,,,,1,N,x0401.jpg,x0402.jpg,The thief had been trying to open the safe for hours.,小偷这几个小时一直在尝试打开保险箱。,Il ladro aveva tentato per ore di aprire la cassaforte.,N_List4_Order26_Item_x12_Cond
+1,27,10,4,2,2,1,Y,4101.jpg,4102.jpg,The boy went to the race track with the witch.,男孩和女巫去了赛道。,Il bambino e' andato all'autodromo con la strega.,Y_List1_Order27_Item_10_Cond4
+2,27,10,1,1,1,1,Y,1101.jpg,1102.jpg,The boy went to the race track with the wizard.,男孩和巫师去了赛道。,Il bambino e' andato all'autodromo con il mago.,Y_List2_Order27_Item_10_Cond1
+3,27,10,2,1,2,1,Y,2101.jpg,2102.jpg,The boy went to the race track with the wizard.,男孩和巫师去了赛道。,Il bambino e' andato all'autodromo con il mago.,Y_List3_Order27_Item_10_Cond2
+4,27,10,3,2,1,1,Y,3101.jpg,3102.jpg,The boy went to the race track with the witch.,男孩和女巫去了赛道。,Il bambino e' andato all'autodromo con la strega.,Y_List4_Order27_Item_10_Cond3
+1,28,x13,,,,1,N,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.,N_List1_Order28_Item_x13_Cond
+2,28,x13,,,,1,N,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.,N_List2_Order28_Item_x13_Cond
+3,28,x13,,,,1,N,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.,N_List3_Order28_Item_x13_Cond
+4,28,x13,,,,1,N,x1201.jpg,x1202.jpg,The plumber held a hula hoop in front of his daughter.,水管工在他女儿面前放了个呼拉圈。,L'idraulico ha tenuto alzato l'hula hoop  davanti a sua figlia.,N_List4_Order28_Item_x13_Cond
+1,29,x14,,,,1,N,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.,N_List1_Order29_Item_x14_Cond
+2,29,x14,,,,1,N,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.,N_List2_Order29_Item_x14_Cond
+3,29,x14,,,,1,N,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.,N_List3_Order29_Item_x14_Cond
+4,29,x14,,,,1,N,x1301.jpg,x1302.jpg,The seals became very hungry after the new zookeeper had gone home.,新来的动物管理员回家后，海豹们变得很饿。,Alle foche e' venuta tanta fame dopo che l'addetto allo zoo e' tornato a casa.,N_List4_Order29_Item_x14_Cond
+1,30,11,1,1,1,1,Y,1111.jpg,1112.jpg,The mermaid left hospital with the policewoman.,美人鱼和女警察离开了医院。,La sirena e' uscita dall' ospedale con la poliziotta.,Y_List1_Order30_Item_11_Cond1
+2,30,11,2,1,2,1,Y,2111.jpg,2112.jpg,The mermaid left hospital with the policewoman.,美人鱼和女警察离开了医院。,La sirena e' uscita dall' ospedale con la poliziotta.,Y_List2_Order30_Item_11_Cond2
+3,30,11,3,2,1,1,Y,3111.jpg,3112.jpg,The mermaid left hospital with the policeman.,美人鱼和男警察离开了医院。,La sirena e' uscita dall' ospedale con il poliziotto.,Y_List3_Order30_Item_11_Cond3
+4,30,11,4,2,2,1,Y,4111.jpg,4112.jpg,The mermaid left hospital with the policeman.,美人鱼和男警察离开了医院。,La sirena e' uscita dall' ospedale con il poliziotto.,Y_List4_Order30_Item_11_Cond4
+1,31,x15,,,,1,N,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.,N_List1_Order31_Item_x15_Cond
+2,31,x15,,,,1,N,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.,N_List2_Order31_Item_x15_Cond
+3,31,x15,,,,1,N,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.,N_List3_Order31_Item_x15_Cond
+4,31,x15,,,,1,N,x1401.jpg,x1402.jpg,A bird had been sitting on the zookeeper's cage.,一只鸟蹲在动物管理员的笼子上。,Un uccello stava seduto sulla gabbia dell'addetto allo zoo.,N_List4_Order31_Item_x15_Cond
+1,32,12,2,1,2,1,Y,2121.jpg,2122.jpg,The queen went for a walk with the princess.,王后和公主去散步。,La regina ha fatto una passeggiata con la principessa.,Y_List1_Order32_Item_12_Cond2
+2,32,12,3,2,1,1,Y,3121.jpg,3122.jpg,The queen went for a walk with the prince.,王后和王子去散步。,La regina ha fatto una passeggiata con il principe.,Y_List2_Order32_Item_12_Cond3
+3,32,12,4,2,2,1,Y,4121.jpg,4122.jpg,The queen went for a walk with the prince.,王后和王子去散步。,La regina ha fatto una passeggiata con il principe.,Y_List3_Order32_Item_12_Cond4
+4,32,12,1,1,1,1,Y,1121.jpg,1122.jpg,The queen went for a walk with the princess.,王后和公主去散步。,La regina ha fatto una passeggiata con la principessa.,Y_List4_Order32_Item_12_Cond1
+1,34,x16,,,,2,N,x0101.jpg,x0102.jpg,The skater thought she was going to hit the ball.,溜冰的人本以为自己能踢中球。,La pattinatrice pensava che avrebbe colpito la palla.,N_List1_Order34_Item_x16_Cond
+2,34,x16,,,,2,N,x0101.jpg,x0102.jpg,The skater thought she was going to hit the ball.,溜冰的人本以为自己能踢中球。,La pattinatrice pensava che avrebbe colpito la palla.,N_List2_Order34_Item_x16_Cond
+3,34,x16,,,,2,N,x0101.jpg,x0102.jpg,The skater thought she was going to hit the ball.,溜冰的人本以为自己能踢中球。,La pattinatrice pensava che avrebbe colpito la palla.,N_List3_Order34_Item_x16_Cond
+4,34,x16,,,,2,N,x0101.jpg,x0102.jpg,The skater thought she was going to hit the ball.,溜冰的人本以为自己能踢中球。,La pattinatrice pensava che avrebbe colpito la palla.,N_List4_Order34_Item_x16_Cond
+1,35,x17,,,,2,N,x1601.jpg,x1602.jpg,The rescuer asked the patient to evacuate the building.,救援人员让病人撤离那栋建筑。,Il soccorritore ha chiesto al paziente di evacuare l'edificio.,N_List1_Order35_Item_x17_Cond
+2,35,x17,,,,2,N,x1601.jpg,x1602.jpg,The rescuer asked the patient to evacuate the building.,救援人员让病人撤离那栋建筑。,Il soccorritore ha chiesto al paziente di evacuare l'edificio.,N_List2_Order35_Item_x17_Cond
+3,35,x17,,,,2,N,x1601.jpg,x1602.jpg,The rescuer asked the patient to evacuate the building.,救援人员让病人撤离那栋建筑。,Il soccorritore ha chiesto al paziente di evacuare l'edificio.,N_List3_Order35_Item_x17_Cond
+4,35,x17,,,,2,N,x1601.jpg,x1602.jpg,The rescuer asked the patient to evacuate the building.,救援人员让病人撤离那栋建筑。,Il soccorritore ha chiesto al paziente di evacuare l'edificio.,N_List4_Order35_Item_x17_Cond
+1,36,13,1,1,1,2,Y,1131.jpg,1132.jpg,The sheriff talked about politics with the groom.,警长和新郎聊了政治。,Lo sceriffo ha parlato di politica con lo sposo.,Y_List1_Order36_Item_13_Cond1
+2,36,13,2,1,2,2,Y,2131.jpg,2132.jpg,The sheriff talked about politics with the groom.,警长和新郎聊了政治。,Lo sceriffo ha parlato di politica con lo sposo.,Y_List2_Order36_Item_13_Cond2
+3,36,13,3,2,1,2,Y,3131.jpg,3132.jpg,The sheriff talked about politics with the bride.,警长和新娘聊了政治。,Lo sceriffo ha parlato di politica con la sposa.,Y_List3_Order36_Item_13_Cond3
+4,36,13,4,2,2,2,Y,4131.jpg,4132.jpg,The sheriff talked about politics with the bride.,警长和新娘聊了政治。,Lo sceriffo ha parlato di politica con la sposa.,Y_List4_Order36_Item_13_Cond4
+1,37,x18,,,,2,N,x1701.jpg,x1702.jpg,The ice cream man saw a soldier in the park.,卖冰淇淋的人看见公园里有名士兵。,Il venditore di gelato ha visto un soldato nel parco.,N_List1_Order37_Item_x18_Cond
+2,37,x18,,,,2,N,x1701.jpg,x1702.jpg,The ice cream man saw a soldier in the park.,卖冰淇淋的人看见公园里有名士兵。,Il venditore di gelato ha visto un soldato nel parco.,N_List2_Order37_Item_x18_Cond
+3,37,x18,,,,2,N,x1701.jpg,x1702.jpg,The ice cream man saw a soldier in the park.,卖冰淇淋的人看见公园里有名士兵。,Il venditore di gelato ha visto un soldato nel parco.,N_List3_Order37_Item_x18_Cond
+4,37,x18,,,,2,N,x1701.jpg,x1702.jpg,The ice cream man saw a soldier in the park.,卖冰淇淋的人看见公园里有名士兵。,Il venditore di gelato ha visto un soldato nel parco.,N_List4_Order37_Item_x18_Cond
+1,38,x19,,,,2,N,x3001.jpg,x3002.jpg,The golfer enjoyed bird-watching before the game.,高尔夫球运动员喜欢在比赛前观鸟。,La giocatrice di golf amava osservare gli uccelli prima di giocare a golf.,N_List1_Order38_Item_x19_Cond
+2,38,x19,,,,2,N,x3001.jpg,x3002.jpg,The golfer enjoyed bird-watching before the game.,高尔夫球运动员喜欢在比赛前观鸟。,La giocatrice di golf amava osservare gli uccelli prima di giocare a golf.,N_List2_Order38_Item_x19_Cond
+3,38,x19,,,,2,N,x3001.jpg,x3002.jpg,The golfer enjoyed bird-watching before the game.,高尔夫球运动员喜欢在比赛前观鸟。,La giocatrice di golf amava osservare gli uccelli prima di giocare a golf.,N_List3_Order38_Item_x19_Cond
+4,38,x19,,,,2,N,x3001.jpg,x3002.jpg,The golfer enjoyed bird-watching before the game.,高尔夫球运动员喜欢在比赛前观鸟。,La giocatrice di golf amava osservare gli uccelli prima di giocare a golf.,N_List4_Order38_Item_x19_Cond
+1,39,14,4,2,2,2,Y,4141.jpg,4142.jpg,The kitchenmaid had put out a fire with the king.,女佣和国王一起灭了火。,La cameriera aveva spento l'incendio con il re.,Y_List1_Order39_Item_14_Cond4
+2,39,14,1,1,1,2,Y,1141.jpg,1142.jpg,The kitchenmaid had put out a fire with the queen.,女佣和王后一起灭了火。,La cameriera aveva spento l'incendio con la regina.,Y_List2_Order39_Item_14_Cond1
+3,39,14,2,1,2,2,Y,2141.jpg,2142.jpg,The kitchenmaid had put out a fire with the queen.,女佣和王后一起灭了火。,La cameriera aveva spento l'incendio con la regina.,Y_List3_Order39_Item_14_Cond2
+4,39,14,3,2,1,2,Y,3141.jpg,3142.jpg,The kitchenmaid had put out a fire with the king.,女佣和国王一起灭了火。,La cameriera aveva spento l'incendio con il re.,Y_List4_Order39_Item_14_Cond3
+1,40,x19,,,,2,N,x1801.jpg,x1802.jpg,The Mexican was happy with the number of eggs  he counted.,墨西哥人对蛋的数量很满意。,Il messicano era contento del numero di uova che aveva contato.,N_List1_Order40_Item_x19_Cond
+2,40,x19,,,,2,N,x1801.jpg,x1802.jpg,The Mexican was happy with the number of eggs  he counted.,墨西哥人对蛋的数量很满意。,Il messicano era contento del numero di uova che aveva contato.,N_List2_Order40_Item_x19_Cond
+3,40,x19,,,,2,N,x1801.jpg,x1802.jpg,The Mexican was happy with the number of eggs  he counted.,墨西哥人对蛋的数量很满意。,Il messicano era contento del numero di uova che aveva contato.,N_List3_Order40_Item_x19_Cond
+4,40,x19,,,,2,N,x1801.jpg,x1802.jpg,The Mexican was happy with the number of eggs  he counted.,墨西哥人对蛋的数量很满意。,Il messicano era contento del numero di uova che aveva contato.,N_List4_Order40_Item_x19_Cond
+1,41,15,2,1,2,2,Y,2151.jpg,2152.jpg,The pirate escaped from jail with the gentleman.,海盗和绅士一起逃出了监狱。,Il pirata e' scappato da prigione con il signore.,Y_List1_Order41_Item_15_Cond2
+2,41,15,3,2,1,2,Y,3151.jpg,3152.jpg,The pirate escaped from jail with the lady.,海盗和女士一起逃出了监狱。,Il pirata e' scappato da prigione con la signora.,Y_List2_Order41_Item_15_Cond3
+3,41,15,4,2,2,2,Y,4151.jpg,4152.jpg,The pirate escaped from jail with the lady.,海盗和女士一起逃出了监狱。,Il pirata e' scappato da prigione con la signora.,Y_List3_Order41_Item_15_Cond4
+4,41,15,1,1,1,2,Y,1151.jpg,1152.jpg,The pirate escaped from jail with the gentleman.,海盗和绅士一起逃出了监狱。,Il pirata e' scappato da prigione con il signore.,Y_List4_Order41_Item_15_Cond1
+1,42,x20,,,,2,N,x0901.jpg,x0902.jpg,Grandmother's cat was very hard to handle.,奶奶的猫非常难缠。,Il gatto della nonna e' molto difficile da trattare.,N_List1_Order42_Item_x20_Cond
+2,42,x20,,,,2,N,x0901.jpg,x0902.jpg,Grandmother's cat was very hard to handle.,奶奶的猫非常难缠。,Il gatto della nonna e' molto difficile da trattare.,N_List2_Order42_Item_x20_Cond
+3,42,x20,,,,2,N,x0901.jpg,x0902.jpg,Grandmother's cat was very hard to handle.,奶奶的猫非常难缠。,Il gatto della nonna e' molto difficile da trattare.,N_List3_Order42_Item_x20_Cond
+4,42,x20,,,,2,N,x0901.jpg,x0902.jpg,Grandmother's cat was very hard to handle.,奶奶的猫非常难缠。,Il gatto della nonna e' molto difficile da trattare.,N_List4_Order42_Item_x20_Cond
+1,43,16,3,2,1,2,Y,3161.jpg,3162.jpg,The gladiator went to the battleground with the countess.,角斗士和女爵士去了战场。,Il gladiatore e' andato al campo di battaglia con la contessa.,Y_List1_Order43_Item_16_Cond3
+2,43,16,4,2,2,2,Y,4161.jpg,4162.jpg,The gladiator went to the battleground with the countess.,角斗士和女爵士去了战场。,Il gladiatore e' andato al campo di battaglia con la contessa.,Y_List2_Order43_Item_16_Cond4
+3,43,16,1,1,1,2,Y,1161.jpg,1162.jpg,The gladiator went to the battleground with the admiral.,角斗士和将军去了战场。,Il gladiatore e' andato al campo di battaglia con l'ammiraglio.,Y_List3_Order43_Item_16_Cond1
+4,43,16,2,1,2,2,Y,2161.jpg,2162.jpg,The gladiator went to the battleground with the admiral.,角斗士和将军去了战场。,Il gladiatore e' andato al campo di battaglia con l'ammiraglio.,Y_List4_Order43_Item_16_Cond2
+1,44,x21,,,,2,N,x2001.jpg,x2002.jpg,The Egyptian had handed a hose to the roadworker.,埃及人将水管递给了修路工人。,L'egiziana aveva dato un tubo all'operaio.,N_List1_Order44_Item_x21_Cond
+2,44,x21,,,,2,N,x2001.jpg,x2002.jpg,The Egyptian had handed a hose to the roadworker.,埃及人将水管递给了修路工人。,L'egiziana aveva dato un tubo all'operaio.,N_List2_Order44_Item_x21_Cond
+3,44,x21,,,,2,N,x2001.jpg,x2002.jpg,The Egyptian had handed a hose to the roadworker.,埃及人将水管递给了修路工人。,L'egiziana aveva dato un tubo all'operaio.,N_List3_Order44_Item_x21_Cond
+4,44,x21,,,,2,N,x2001.jpg,x2002.jpg,The Egyptian had handed a hose to the roadworker.,埃及人将水管递给了修路工人。,L'egiziana aveva dato un tubo all'operaio.,N_List4_Order44_Item_x21_Cond
+1,45,x22,,,,2,N,x1101.jpg,x1102.jpg,The diver had just came out of the water after a long dive.,潜水员在水里潜了很久，刚刚才浮出水面。,Il sommozzatore era appena uscito dall'acqua dopo una lunga immersione.,N_List1_Order45_Item_x22_Cond
+2,45,x22,,,,2,N,x1101.jpg,x1102.jpg,The diver had just came out of the water after a long dive.,潜水员在水里潜了很久，刚刚才浮出水面。,Il sommozzatore era appena uscito dall'acqua dopo una lunga immersione.,N_List2_Order45_Item_x22_Cond
+3,45,x22,,,,2,N,x1101.jpg,x1102.jpg,The diver had just came out of the water after a long dive.,潜水员在水里潜了很久，刚刚才浮出水面。,Il sommozzatore era appena uscito dall'acqua dopo una lunga immersione.,N_List3_Order45_Item_x22_Cond
+4,45,x22,,,,2,N,x1101.jpg,x1102.jpg,The diver had just came out of the water after a long dive.,潜水员在水里潜了很久，刚刚才浮出水面。,Il sommozzatore era appena uscito dall'acqua dopo una lunga immersione.,N_List4_Order45_Item_x22_Cond
+1,46,17,1,1,1,2,Y,1171.jpg,1172.jpg,The lady discussed the weather with the mermaid.,女士和美人鱼聊了天气。,La signora ha discusso del tempo con la sirena.,Y_List1_Order46_Item_17_Cond1
+2,46,17,2,1,2,2,Y,2171.jpg,2172.jpg,The lady discussed the weather with the mermaid.,女士和美人鱼聊了天气。,La signora ha discusso del tempo con la sirena.,Y_List2_Order46_Item_17_Cond2
+3,46,17,3,2,1,2,Y,3171.jpg,3172.jpg,The lady discussed the weather with the pirate.,女士和海盗聊了天气。,La signora ha discusso del tempo con la sirena.,Y_List3_Order46_Item_17_Cond3
+4,46,17,4,2,2,2,Y,4171.jpg,4172.jpg,The lady discussed the weather with the pirate.,女士和海盗聊了天气。,La signora ha discusso del tempo con la sirena.,Y_List4_Order46_Item_17_Cond4
+1,47,x30,,,,2,N,x2801.jpg,x2802.jpg,The patient was recommended by the doctor to do some reading.,患者被医生推荐去读点东西。,Al paziente e' stato raccomandato dal dottore di leggere un po'.,N_List1_Order47_Item_x30_Cond
+2,47,x30,,,,2,N,x2801.jpg,x2802.jpg,The patient was recommended by the doctor to do some reading.,患者被医生推荐去读点东西。,Al paziente e' stato raccomandato dal dottore di leggere un po'.,N_List2_Order47_Item_x30_Cond
+3,47,x30,,,,2,N,x2801.jpg,x2802.jpg,The patient was recommended by the doctor to do some reading.,患者被医生推荐去读点东西。,Al paziente e' stato raccomandato dal dottore di leggere un po'.,N_List3_Order47_Item_x30_Cond
+4,47,x30,,,,2,N,x2801.jpg,x2802.jpg,The patient was recommended by the doctor to do some reading.,患者被医生推荐去读点东西。,Al paziente e' stato raccomandato dal dottore di leggere un po'.,N_List4_Order47_Item_x30_Cond
+1,48,18,2,1,2,2,Y,2181.jpg,2182.jpg,The admiral was having a laugh with the prince.,将军和王子嬉闹了一会儿。,L'ammiraglio stava scherzando con il principe.,Y_List1_Order48_Item_18_Cond2
+2,48,18,3,2,1,2,Y,3181.jpg,3182.jpg,The admiral was having a laugh with the princess.,将军和公主嬉闹了一会儿。,L'ammiraglio stava scherzando con la principessa.,Y_List2_Order48_Item_18_Cond3
+3,48,18,4,2,2,2,Y,4181.jpg,4182.jpg,The admiral was having a laugh with the princess.,将军和公主嬉闹了一会儿。,L'ammiraglio stava scherzando con la principessa.,Y_List3_Order48_Item_18_Cond4
+4,48,18,1,1,1,2,Y,1181.jpg,1182.jpg,The admiral was having a laugh with the prince.,将军和王子嬉闹了一会儿。,L'ammiraglio stava scherzando con il principe.,Y_List4_Order48_Item_18_Cond1
+1,49,x24,,,,2,N,x2301.jpg,x2302.jpg,The baby had just been hit by his own pram.,婴儿刚刚被自己的婴儿车给撞到了。,Il bebe' era appena stato colpito dalla sua stessa carrozzina.,N_List1_Order49_Item_x24_Cond
+2,49,x24,,,,2,N,x2301.jpg,x2302.jpg,The baby had just been hit by his own pram.,婴儿刚刚被自己的婴儿车给撞到了。,Il bebe' era appena stato colpito dalla sua stessa carrozzina.,N_List2_Order49_Item_x24_Cond
+3,49,x24,,,,2,N,x2301.jpg,x2302.jpg,The baby had just been hit by his own pram.,婴儿刚刚被自己的婴儿车给撞到了。,Il bebe' era appena stato colpito dalla sua stessa carrozzina.,N_List3_Order49_Item_x24_Cond
+4,49,x24,,,,2,N,x2301.jpg,x2302.jpg,The baby had just been hit by his own pram.,婴儿刚刚被自己的婴儿车给撞到了。,Il bebe' era appena stato colpito dalla sua stessa carrozzina.,N_List4_Order49_Item_x24_Cond
+1,50,19,3,2,1,2,Y,3191.jpg,3192.jpg,The Viking went to the lake with the nanny.,维京人和保姆去了湖边。,Il vichingo e' andato al lago con la bambinaia.,Y_List1_Order50_Item_19_Cond3
+2,50,19,4,2,2,2,Y,4191.jpg,4192.jpg,The Viking went to the lake with the nanny.,维京人和保姆去了湖边。,Il vichingo e' andato al lago con la bambinaia.,Y_List2_Order50_Item_19_Cond4
+3,50,19,1,1,1,2,Y,1191.jpg,1192.jpg,The Viking went to the lake with the cowboy.,维京人和牛仔去了湖边。,Il vichingo e' andato al lago con il cowboy.,Y_List3_Order50_Item_19_Cond1
+4,50,19,2,1,2,2,Y,2191.jpg,2192.jpg,The Viking went to the lake with the cowboy.,维京人和牛仔去了湖边。,Il vichingo e' andato al lago con il cowboy.,Y_List4_Order50_Item_19_Cond2
+1,51,x25,,,,2,N,x2401.jpg,x2402.jpg,The plumber gave the flower to the female doctor.,水管工将鲜花送给了女医生。,L'idraulico ha dato i fiori alla dottoressa.,N_List1_Order51_Item_x25_Cond
+2,51,x25,,,,2,N,x2401.jpg,x2402.jpg,The plumber gave the flower to the female doctor.,水管工将鲜花送给了女医生。,L'idraulico ha dato i fiori alla dottoressa.,N_List2_Order51_Item_x25_Cond
+3,51,x25,,,,2,N,x2401.jpg,x2402.jpg,The plumber gave the flower to the female doctor.,水管工将鲜花送给了女医生。,L'idraulico ha dato i fiori alla dottoressa.,N_List3_Order51_Item_x25_Cond
+4,51,x25,,,,2,N,x2401.jpg,x2402.jpg,The plumber gave the flower to the female doctor.,水管工将鲜花送给了女医生。,L'idraulico ha dato i fiori alla dottoressa.,N_List4_Order51_Item_x25_Cond
+1,52,20,4,2,2,2,Y,4201.jpg,4202.jpg,The girl was having fun with the wizard.,女孩和巫师玩得很开心。,La ragazzina si stava divertendo con il mago.,Y_List1_Order52_Item_20_Cond4
+2,52,20,1,1,1,2,Y,1201.jpg,1202.jpg,The girl was having fun with the witch.,女孩和女巫玩得很开心。,La ragazzina si stava divertendo con la strega.,Y_List2_Order52_Item_20_Cond1
+3,52,20,2,1,2,2,Y,2201.jpg,2202.jpg,The girl was having fun with the witch.,女孩和女巫玩得很开心。,La ragazzina si stava divertendo con la strega.,Y_List3_Order52_Item_20_Cond2
+4,52,20,3,2,1,2,Y,3201.jpg,3202.jpg,The girl was having fun with the wizard.,女孩和巫师玩得很开心。,La ragazzina si stava divertendo con il mago.,Y_List4_Order52_Item_20_Cond3
+1,53,x26,,,,2,N,x2501.jpg,x2502.jpg,The young man saw his neighbour's bin in the street.,年轻人在街上看见了领居家的垃圾桶。,Il giovanotto ha visto il bidone del suo vicino in strada,N_List1_Order53_Item_x26_Cond
+2,53,x26,,,,2,N,x2501.jpg,x2502.jpg,The young man saw his neighbour's bin in the street.,年轻人在街上看见了领居家的垃圾桶。,Il giovanotto ha visto il bidone del suo vicino in strada,N_List2_Order53_Item_x26_Cond
+3,53,x26,,,,2,N,x2501.jpg,x2502.jpg,The young man saw his neighbour's bin in the street.,年轻人在街上看见了领居家的垃圾桶。,Il giovanotto ha visto il bidone del suo vicino in strada,N_List3_Order53_Item_x26_Cond
+4,53,x26,,,,2,N,x2501.jpg,x2502.jpg,The young man saw his neighbour's bin in the street.,年轻人在街上看见了领居家的垃圾桶。,Il giovanotto ha visto il bidone del suo vicino in strada,N_List4_Order53_Item_x26_Cond
+1,54,21,2,1,2,2,Y,2211.jpg,2212.jpg,The prince went to the beach with the priest.,王子和牧师去了海边。,Il principe e' andato in spiaggia con il prete.,Y_List1_Order54_Item_21_Cond2
+2,54,21,3,2,1,2,Y,3211.jpg,3212.jpg,The prince went to the beach with the nun.,王子和修女去了海边。,Il principe e' andato in spiaggia con la suora.,Y_List2_Order54_Item_21_Cond3
+3,54,21,4,2,2,2,Y,4211.jpg,4212.jpg,The prince went to the beach with the nun.,王子和修女去了海边。,Il principe e' andato in spiaggia con la suora.,Y_List3_Order54_Item_21_Cond4
+4,54,21,1,1,1,2,Y,1211.jpg,1212.jpg,The prince went to the beach with the priest.,王子和牧师去了海边。,Il principe e' andato in spiaggia con il prete.,Y_List4_Order54_Item_21_Cond1
+1,55,x27,,,,2,N,x2901.jpg,x2902.jpg,The man had stolen money from the bank robber.,男人从银行劫匪那里偷走了钱。,L'uomo aveva rubato dei soldi al rapinatore.,N_List1_Order55_Item_x27_Cond
+2,55,x27,,,,2,N,x2901.jpg,x2902.jpg,The man had stolen money from the bank robber.,男人从银行劫匪那里偷走了钱。,L'uomo aveva rubato dei soldi al rapinatore.,N_List2_Order55_Item_x27_Cond
+3,55,x27,,,,2,N,x2901.jpg,x2902.jpg,The man had stolen money from the bank robber.,男人从银行劫匪那里偷走了钱。,L'uomo aveva rubato dei soldi al rapinatore.,N_List3_Order55_Item_x27_Cond
+4,55,x27,,,,2,N,x2901.jpg,x2902.jpg,The man had stolen money from the bank robber.,男人从银行劫匪那里偷走了钱。,L'uomo aveva rubato dei soldi al rapinatore.,N_List4_Order55_Item_x27_Cond
+1,56,x28,,,,2,N,x1001.jpg,x1002.jpg,The paramedic was looking forward to meeting the magician.,医务人员很期待能见到魔术师。,La dottoressa non vedeva l'ora di incontrare il prestigiatore.,N_List1_Order56_Item_x28_Cond
+2,56,x28,,,,2,N,x1001.jpg,x1002.jpg,The paramedic was looking forward to meeting the magician.,医务人员很期待能见到魔术师。,La dottoressa non vedeva l'ora di incontrare il prestigiatore.,N_List2_Order56_Item_x28_Cond
+3,56,x28,,,,2,N,x1001.jpg,x1002.jpg,The paramedic was looking forward to meeting the magician.,医务人员很期待能见到魔术师。,La dottoressa non vedeva l'ora di incontrare il prestigiatore.,N_List3_Order56_Item_x28_Cond
+4,56,x28,,,,2,N,x1001.jpg,x1002.jpg,The paramedic was looking forward to meeting the magician.,医务人员很期待能见到魔术师。,La dottoressa non vedeva l'ora di incontrare il prestigiatore.,N_List4_Order56_Item_x28_Cond
+1,57,22,3,2,1,2,Y,3221.jpg,3222.jpg,The woman was having a break with the pirate.,女人和海盗正在休息。,La donna stava facendo una pausa con il pirata.,Y_List1_Order57_Item_22_Cond3
+2,57,22,4,2,2,2,Y,4221.jpg,4222.jpg,The woman was having a break with the pirate.,女人和海盗正在休息。,La donna stava facendo una pausa con il pirata.,Y_List2_Order57_Item_22_Cond4
+3,57,22,1,1,1,2,Y,1221.jpg,1222.jpg,The woman was having a break with the mermaid.,女人和美人鱼正在休息。,La donna stava facendo una pausa con la sirena.,Y_List3_Order57_Item_22_Cond1
+4,57,22,2,1,2,2,Y,2221.jpg,2222.jpg,The woman was having a break with the mermaid.,女人和美人鱼正在休息。,La donna stava facendo una pausa con la sirena.,Y_List4_Order57_Item_22_Cond2
+1,58,x29,,,,2,N,x2701.jpg,x2702.jpg,The nurse saw that her chair was occupied by  a colleague.,护士发现一名同事正坐在她的椅子上。,L'infermiera ha notato che la sua sedia era occupata da un collega.,N_List1_Order58_Item_x29_Cond
+2,58,x29,,,,2,N,x2701.jpg,x2702.jpg,The nurse saw that her chair was occupied by  a colleague.,护士发现一名同事正坐在她的椅子上。,L'infermiera ha notato che la sua sedia era occupata da un collega.,N_List2_Order58_Item_x29_Cond
+3,58,x29,,,,2,N,x2701.jpg,x2702.jpg,The nurse saw that her chair was occupied by  a colleague.,护士发现一名同事正坐在她的椅子上。,L'infermiera ha notato che la sua sedia era occupata da un collega.,N_List3_Order58_Item_x29_Cond
+4,58,x29,,,,2,N,x2701.jpg,x2702.jpg,The nurse saw that her chair was occupied by  a colleague.,护士发现一名同事正坐在她的椅子上。,L'infermiera ha notato che la sua sedia era occupata da un collega.,N_List4_Order58_Item_x29_Cond
+1,59,23,1,1,1,2,Y,1231.jpg,1232.jpg,The farmer went to the village with the pilot.,农民和飞行员去了村庄。,Il contadino e' andato in paese con il pilota.,Y_List1_Order59_Item_23_Cond1
+2,59,23,2,1,2,2,Y,2231.jpg,2232.jpg,The farmer went to the village with the pilot.,农民和飞行员去了村庄。,Il contadino e' andato in paese con il pilota.,Y_List2_Order59_Item_23_Cond2
+3,59,23,3,2,1,2,Y,3231.jpg,3232.jpg,The farmer went to the village with the stewardess.,农民和乘务员去了村庄。,Il contadino e' andato in paese con la hostess.,Y_List3_Order59_Item_23_Cond3
+4,59,23,4,2,2,2,Y,4231.jpg,4232.jpg,The farmer went to the village with the stewardess.,农民和乘务员去了村庄。,Il contadino e' andato in paese con la hostess.,Y_List4_Order59_Item_23_Cond4
+1,60,x23,,,,2,N,x2201.jpg,x2202.jpg,The Roman soldier felt very tired after the battle.,罗马士兵结束了战斗，感到非常疲倦。,Il soldato romano era molto stanco dopo la battaglia.,N_List1_Order60_Item_x23_Cond
+2,60,x23,,,,2,N,x2201.jpg,x2202.jpg,The Roman soldier felt very tired after the battle.,罗马士兵结束了战斗，感到非常疲倦。,Il soldato romano era molto stanco dopo la battaglia.,N_List2_Order60_Item_x23_Cond
+3,60,x23,,,,2,N,x2201.jpg,x2202.jpg,The Roman soldier felt very tired after the battle.,罗马士兵结束了战斗，感到非常疲倦。,Il soldato romano era molto stanco dopo la battaglia.,N_List3_Order60_Item_x23_Cond
+4,60,x23,,,,2,N,x2201.jpg,x2202.jpg,The Roman soldier felt very tired after the battle.,罗马士兵结束了战斗，感到非常疲倦。,Il soldato romano era molto stanco dopo la battaglia.,N_List4_Order60_Item_x23_Cond
+1,61,24,4,2,2,2,Y,4241.jpg,4242.jpg,The countess toured the country with the boy.,女爵士和男孩环游了全国。,La contessa ha fatto un viaggio con il ragazzo.,Y_List1_Order61_Item_24_Cond4
+2,61,24,1,1,1,2,Y,1241.jpg,1242.jpg,The countess toured the country with the girl.,女爵士和女孩环游了全国。,La contessa ha fatto un viaggio con la ragazza.,Y_List2_Order61_Item_24_Cond1
+3,61,24,2,1,2,2,Y,2241.jpg,2242.jpg,The countess toured the country with the girl.,女爵士和女孩环游了全国。,La contessa ha fatto un viaggio con la ragazza.,Y_List3_Order61_Item_24_Cond2
+4,61,24,3,2,1,2,Y,3241.jpg,3242.jpg,The countess toured the country with the boy.,女爵士和男孩环游了全国。,La contessa ha fatto un viaggio con il ragazzo.,Y_List4_Order61_Item_24_Cond3
